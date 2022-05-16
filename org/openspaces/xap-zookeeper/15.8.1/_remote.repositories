@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 16 14:00:40 CST 2022
+xap-zookeeper-15.8.1.pom>org.openspaces=
+xap-zookeeper-15.8.1.jar>org.openspaces=
+xap-zookeeper-15.8.1-javadoc.jar>org.openspaces=
