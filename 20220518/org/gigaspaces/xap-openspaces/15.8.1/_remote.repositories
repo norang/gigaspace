@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 18 16:39:02 CST 2022
+xap-openspaces-15.8.1-sources.jar>org.openspaces=
+xap-openspaces-15.8.1.jar>org.openspaces=
+xap-openspaces-15.8.1.pom>org.openspaces=

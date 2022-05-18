@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 18 16:30:40 CST 2022
+pmem-jni-1.0.2.jar>org.openspaces=
+pmem-jni-1.0.2.pom>org.openspaces=
